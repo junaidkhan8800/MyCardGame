@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/drawable-v24/buttongradient.xml" value="0.1" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/drawable-v24/circular_tv.xml" value="0.19375" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/drawable-v24/ic_asset.xml" value="0.19375" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/drawable-v24/ic_cards_leaf.xml" value="0.19375" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/drawable/ic_clock.xml" value="0.19375" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/drawable/ic_loose_emojii.xml" value="0.19375" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/drawable/scale_in_tv.xml" value="0.19375" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/about_fragment.xml" value="0.22" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/activity_four_card.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/activity_otp.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/activity_thirteen_card.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/app_bar_navigation_drawer.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/content_navigation_drawer.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/fragment_four_card_result.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/fragment_my_game_history.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/fragment_thirteen_card_result.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/fragment_today_result_history.xml" value="0.3374536464771323" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/fragment_wallet_history.xml" value="0.22" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/item_array_thirteen.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/item_card.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/item_card_thirteen.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/item_gamehistory.xml" value="0.34196891191709844" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/item_points.xml" value="0.9" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/item_result_history.xml" value="0.33" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/item_wallethistory.xml" value="0.33" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/layout/scale_out_tv.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/menu/activity_main_drawer.xml" value="0.9" />
+        <entry key="..\:/Users/M90/AndroidStudioProjects/MyCardGame/app/src/main/res/menu/navigation_drawer.xml" value="0.1734375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

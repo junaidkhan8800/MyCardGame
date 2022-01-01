@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "853225998084",
+    "project_id": "jackpot-lottery-c85ad",
+    "storage_bucket": "jackpot-lottery-c85ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853225998084:android:e945be9af38da9a06e3251",
+        "android_client_info": {
+          "package_name": "com.m90.mycardgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853225998084-523uo2ojno49ubilmrep89vi2k8j12iq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.m90.mycardgame",
+            "certificate_hash": "395f2ba82a29e5ee587b87c0c75dbf90cf6b2957"
+          }
+        },
+        {
+          "client_id": "853225998084-a1rh7cesgdoc1ke5b665k12tnt2dk209.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXWv_V1ykkkU9j4WQx-yGsPSAvEXqAN_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853225998084-a1rh7cesgdoc1ke5b665k12tnt2dk209.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
